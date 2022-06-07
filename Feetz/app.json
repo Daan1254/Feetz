@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Feetz",
-    "slug": "Feetz",
+    "name": "feetz",
+    "slug": "feetz",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
